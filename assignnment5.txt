@@ -1,0 +1,72 @@
+1. np.unique()
+
+Syntax: np.unique(array)
+
+Example: import numpy as np
+colors = np.array(['red', 'blue', 'red', 'green', 'blue', 'red'])
+print(np.unique(colors))
+
+2. np.sort()
+
+Syntax: np.sort(array)
+
+Example: import numpy as np
+names = np.array(['zara', 'alice', 'bob', 'charlie'])
+print(np.sort(names))
+
+3. np.argsort()
+
+Syntax: np.argsort(array)
+
+Example: import numpy as np ages=np.array([25,30,20,35])
+print(np.argsort(ages))
+
+4. np.where()
+
+Syntax: np.where(condition, value_if_true, value_if_false)
+
+Example: import numpy as np temperatures=np.array([5,-3,8,-1,12,-2])
+print(np.where(temperatures < 0, 0, temperatures))
+
+5. np.concatenate()
+
+Syntax: np.concatenate((array1, array2), axis=0)
+
+Example: import numpy as np morning=np.array([[10,20],[30,40]])
+afternoon=np.array([[50,60]])
+print(np.concatenate((morning, afternoon), axis=0))
+
+6. np.clip()
+
+Syntax: np.clip(array,min_value,max_value)
+
+Example: import numpy as np
+price_changes = np.array([-0.15, 0.50, -0.25, 0.10, 0.60])
+print(np.clip(price_changes, -0.20, 0.20))
+
+7. np.argmax()
+
+Syntax: np.argmax(array)
+
+Example: import numpy as np scores=np.array([78,92,85,88,95])
+print(np.argmax(scores))
+
+8. np.argmin()
+
+Syntax: np.argmin(array)
+
+Example: import numpy as np times=np.array([12.5,11.8,12.1,11.2,11.9])
+print(np.argmin(times))
+
+9. np.random.randint()
+
+Syntax: np.random. randint(low, high, size)
+
+Example: import numpy as np print(np.random.randint(0,2,size=8))
+
+10. np.transpose()
+
+Syntax: np.transpose(array)
+
+Example: import numpy as np data=np.array([[1,2,3],[4,5,6]])
+print(np.transpose(data))
