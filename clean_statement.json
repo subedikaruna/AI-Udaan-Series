@@ -1,0 +1,3154 @@
+[
+    {
+        "Date": "18-Jul",
+        "Value Date": "18Jul25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,pay/ET TO 042 00524200087 M69527517 0420",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 65263.35
+    },
+    {
+        "Date": "18-Jul",
+        "Value Date": "18Jul25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,pay/ET TO 042 00501205275 M69527594 0420",
+        "Debit": 1600.0,
+        "Credit": NaN,
+        "Balance": 63663.35
+    },
+    {
+        "Date": "18-Jul",
+        "Value Date": "18Jul25",
+        "Description": "4813670002486602 TRACE 13009639/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 53663.35
+    },
+    {
+        "Date": "19-Jul",
+        "Value Date": "19Jul25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 001 00501227190 M69700061 0420",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 48663.35
+    },
+    {
+        "Date": "20-Jul",
+        "Value Date": "20Jul25",
+        "Description": "HIMALAYAN BANK FPO-ASBA CHRG 1301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 48658.35
+    },
+    {
+        "Date": "21-Jul",
+        "Value Date": "21Jul25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kotha TO 0010 0501227190 M69863391 0420",
+        "Debit": 30000.0,
+        "Credit": NaN,
+        "Balance": 18658.35
+    },
+    {
+        "Date": "25-Jul",
+        "Value Date": "25Jul25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,I c/ETT GLBBNPKA;046020 10000954 M70235370 0420",
+        "Debit": 16010.0,
+        "Credit": NaN,
+        "Balance": 2648.35
+    },
+    {
+        "Date": "25-Jul",
+        "Value Date": "25Jul25",
+        "Description": "9855071250/QR Pay,DIMPI SILA I MACHINE TRADERS/ETT 660347 4pB8LA M70252412 0420",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 1648.35
+    },
+    {
+        "Date": "26-Jul",
+        "Value Date": "26Jul25",
+        "Description": "FPY:IBFT:955658974:4602:EVBL NPKA:NEBLNPKA:MAKUND 0005562 21547:25072 NEBLNPKA-3794429 3 0000",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 6648.35
+    },
+    {
+        "Date": "26-Jul",
+        "Value Date": "26Jul25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,234/ETT SGBBNPKA;011019 00527552000001 M70317444 042 0",
+        "Debit": 3510.0,
+        "Credit": NaN,
+        "Balance": 3138.35
+    },
+    {
+        "Date": "01-Aug",
+        "Value Date": "01Aug25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 042 00524200087 M70910257 0420",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 57148.35
+    },
+    {
+        "Date": "01-Aug",
+        "Value Date": "01Aug25",
+        "Description": "4813670002486602 TRACE 19002842/2 EB042001",
+        "Debit": 7000.0,
+        "Credit": NaN,
+        "Balance": 50148.35
+    },
+    {
+        "Date": "01-Aug",
+        "Value Date": "01Aug25",
+        "Description": "9855071250/ESEWA,M70976184/E TT 9845995977,bankXPMob M709 76184 0420",
+        "Debit": 2900.0,
+        "Credit": NaN,
+        "Balance": 47248.35
+    },
+    {
+        "Date": "05-Aug",
+        "Value Date": "05Aug25",
+        "Description": "4813670002486602 TRACE 01274906/2 DERO5983",
+        "Debit": 16495.45,
+        "Credit": NaN,
+        "Balance": 30752.9
+    },
+    {
+        "Date": "05-Aug",
+        "Value Date": "05Aug25",
+        "Description": "4813670002486602 TRACE 01274906/2 DERO5983",
+        "Debit": 300.0,
+        "Credit": NaN,
+        "Balance": 30452.9
+    },
+    {
+        "Date": "08-Aug",
+        "Value Date": "08Aug25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,pay/ET TO 001 00501227190 M71590390 0420",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 25452.9
+    },
+    {
+        "Date": "08-Aug",
+        "Value Date": "08Aug25",
+        "Description": "4813670002486602 TRACE 18004174/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 15452.9
+    },
+    {
+        "Date": "09-Aug",
+        "Value Date": "09Aug25",
+        "Description": "9855071250/QR Pay,Salam Meat Shop/ETT 7024518gCn7z M7170 5860 0420",
+        "Debit": 1250.0,
+        "Credit": NaN,
+        "Balance": 14202.9
+    },
+    {
+        "Date": "09-Aug",
+        "Value Date": "09Aug25",
+        "Description": "4813670002486602 TRACE 17004403/2 EB042001",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 9202.9
+    },
+    {
+        "Date": "12-Aug",
+        "Value Date": "12Aug25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,d riving/ETT PRVUNPKA;3 347051535000018 M71934222 04 20",
+        "Debit": 5010.0,
+        "Credit": NaN,
+        "Balance": 4192.9
+    },
+    {
+        "Date": "13-Aug",
+        "Value Date": "13Aug25",
+        "Description": "MABILUNG ENERGY LTD-ASBA CHR G 1301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 4187.9
+    },
+    {
+        "Date": "13-Aug",
+        "Value Date": "13Aug25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 001 00501227190 M72060649 0420",
+        "Debit": 1500.0,
+        "Credit": NaN,
+        "Balance": 2687.9
+    },
+    {
+        "Date": "13-Aug",
+        "Value Date": "13Aug25",
+        "Description": "9855071250/ESEWA,M72061300/E TT 9821837230,bankXPMob M720 61300 0420",
+        "Debit": 1500.0,
+        "Credit": NaN,
+        "Balance": 1187.9
+    },
+    {
+        "Date": "17-Aug",
+        "Value Date": "17Aug25",
+        "Description": "9845995977/bankXPMob,KARUNA SUBEDI,pay/ETT TO 0420050120 2549 M72460437 0420",
+        "Debit": 3000.0,
+        "Credit": NaN,
+        "Balance": 4187.9
+    },
+    {
+        "Date": "18-Aug",
+        "Value Date": "18Aug25",
+        "Description": "9855071250/QR Pay,SHREE GANE SH STORES/ETT 7272273N5q0D M 72598562 0420",
+        "Debit": 470.0,
+        "Credit": NaN,
+        "Balance": 3717.9
+    },
+    {
+        "Date": "19-Aug",
+        "Value Date": "19Aug25",
+        "Description": "SWASTIK LAGHUBITTA-ASBA CHAR GE 1301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 3712.9
+    },
+    {
+        "Date": "20-Aug",
+        "Value Date": "20Aug25",
+        "Description": "9855071250/ESEWA,M72764289/E TT 9821837230,bankXPMob M727 64289 0420",
+        "Debit": 1300.0,
+        "Credit": NaN,
+        "Balance": 2412.9
+    },
+    {
+        "Date": "24-Aug",
+        "Value Date": "24Aug25",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/476522593 0010",
+        "Debit": 49500.0,
+        "Credit": NaN,
+        "Balance": 51912.9
+    },
+    {
+        "Date": "25-Aug",
+        "Value Date": "25Aug25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 042 00501205275 M73311844 0420",
+        "Debit": 3000.0,
+        "Credit": NaN,
+        "Balance": 48912.9
+    },
+    {
+        "Date": "26-Aug",
+        "Value Date": "26Aug25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kista/ETT SGBBNPKA;0110 1900527552000001 M73362616 0 420",
+        "Debit": 2010.0,
+        "Credit": NaN,
+        "Balance": 46902.9
+    },
+    {
+        "Date": "26-Aug",
+        "Value Date": "26Aug25",
+        "Description": "9855071250/QR Pay,BIKASH BEE J BHANDAR/ETT 7493923rNq9c M 73391604 0420",
+        "Debit": 1600.0,
+        "Credit": NaN,
+        "Balance": 45302.9
+    },
+    {
+        "Date": "27-Aug",
+        "Value Date": "27Aug25",
+        "Description": "4813670002486602 TRACE 19008297/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 35302.9
+    },
+    {
+        "Date": "28-Aug",
+        "Value Date": "28Aug25",
+        "Description": "4813670002486602 TRACE 13008368/2 EB042001",
+        "Debit": 25000.0,
+        "Credit": NaN,
+        "Balance": 10302.9
+    },
+    {
+        "Date": "31-Aug",
+        "Value Date": "31Aug25",
+        "Description": "BANDIPUR CABLE CAR-ASBA CHAR GE 1301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 10297.9
+    },
+    {
+        "Date": "01-Sep",
+        "Value Date": "01Sep25",
+        "Description": "BY INST 22616893 : OWCLG GEN ERAL NPR SUMAN TRADERS 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 55297.9
+    },
+    {
+        "Date": "01-Sep",
+        "Value Date": "01Sep25",
+        "Description": "REJECT:22616893:EFFECTS NOT CLEARED PLEASE PRESENT SUMAN TRADERS 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 10297.9
+    },
+    {
+        "Date": "02-Sep",
+        "Value Date": "02Sep25",
+        "Description": "BY INST 22616893 : OWCLG GEN ERAL NPR suman traders 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 55297.9
+    },
+    {
+        "Date": "03-Sep",
+        "Value Date": "03Sep25",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M74125068/ 985507 1250 M74125068 0420",
+        "Debit": 300.0,
+        "Credit": NaN,
+        "Balance": 54997.9
+    },
+    {
+        "Date": "07-Sep",
+        "Value Date": "07Sep25",
+        "Description": "JHAPA ENERGY LTD -ASBA CHARG E 1301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 54992.9
+    },
+    {
+        "Date": "08-Sep",
+        "Value Date": "08Sep25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,pay/ET TO 042 00501205275 M74629027 0420",
+        "Debit": 1020.0,
+        "Credit": NaN,
+        "Balance": 53972.9
+    },
+    {
+        "Date": "08-Sep",
+        "Value Date": "08Sep25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,pwy/ET TO 001 00501227190 M74629136 0420",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 52972.9
+    },
+    {
+        "Date": "08-Sep",
+        "Value Date": "08Sep25",
+        "Description": "4813670002486602 TRACE 14000782/2 EB042001",
+        "Debit": 25000.0,
+        "Credit": NaN,
+        "Balance": 27972.9
+    },
+    {
+        "Date": "12-Sep",
+        "Value Date": "12Sep25",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M74927332/ 985507 1250 M74927332 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 27872.9
+    },
+    {
+        "Date": "14-Sep",
+        "Value Date": "14Sep25",
+        "Description": "4813670002486602 TRACE 18001982/2 EB042001",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 22872.9
+    },
+    {
+        "Date": "16-Sep",
+        "Value Date": "16Sep25",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M75307899/ 985507 1250 M75307899 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 22772.9
+    },
+    {
+        "Date": "18-Sep",
+        "Value Date": "18Sep25",
+        "Description": "4813670002486602 TRACE 14002945/2 EB042001",
+        "Debit": 15000.0,
+        "Credit": NaN,
+        "Balance": 7772.9
+    },
+    {
+        "Date": "21-Sep",
+        "Value Date": "21Sep25",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M75883085/ 985507 1250 M75883085 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 7672.9
+    },
+    {
+        "Date": "23-Sep",
+        "Value Date": "23Sep25",
+        "Description": "FPY:IBFT:1059667661:4779:EVB LNPKA:NEBLNPKA:MAKUN 0006203 82762:25092 NEBLNPKA-4316745 4 0000",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 27672.9
+    },
+    {
+        "Date": "23-Sep",
+        "Value Date": "23Sep25",
+        "Description": "4813670002486602 TRACE 10004590/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 17672.9
+    },
+    {
+        "Date": "23-Sep",
+        "Value Date": "23Sep25",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M76080303/ 985507 1250 M76080303 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 17172.9
+    },
+    {
+        "Date": "26-Sep",
+        "Value Date": "26Sep25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kulo/ETT PRVUNPKA;33470 55714400018 M76402129 0420",
+        "Debit": 3010.0,
+        "Credit": NaN,
+        "Balance": 14162.9
+    },
+    {
+        "Date": "26-Sep",
+        "Value Date": "26Sep25",
+        "Description": "JHAPA ENERGY LIMITED-IPO ALL OT 1301080001248131 0000",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 13162.9
+    },
+    {
+        "Date": "26-Sep",
+        "Value Date": "26Sep25",
+        "Description": "4813670002486602 TRACE 11005862/2 EB042001",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 8162.9
+    },
+    {
+        "Date": "26-Sep",
+        "Value Date": "26Sep25",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/503516593 0010",
+        "Debit": 49500.0,
+        "Credit": NaN,
+        "Balance": 57662.9
+    },
+    {
+        "Date": "26-Sep",
+        "Value Date": "26Sep25",
+        "Description": "BY INST 22616902 : OWCLG GEN ERAL NPR SUMAN TRADERS 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 102662.9
+    },
+    {
+        "Date": "26-Sep",
+        "Value Date": "26Sep25",
+        "Description": "4813670002486602 TRACE 15006070/2 EB042001",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 82662.9
+    },
+    {
+        "Date": "26-Sep",
+        "Value Date": "26Sep25",
+        "Description": "REJECT:22616902:EFFECTS NOT CLEARED PLEASE PRESENT SUMAN TRADERS 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 37662.9
+    },
+    {
+        "Date": "27-Sep",
+        "Value Date": "27Sep25",
+        "Description": "9855071250/QR Pay,AMBE STORE S/ETT 8412485Hey0q M76618277 0420",
+        "Debit": 830.0,
+        "Credit": NaN,
+        "Balance": 36832.9
+    },
+    {
+        "Date": "28-Sep",
+        "Value Date": "28Sep25",
+        "Description": "SUNIL ACHARYA/SIDBL khasi CI PS/504599099 0010",
+        "Debit": 35000.0,
+        "Credit": NaN,
+        "Balance": 71832.9
+    },
+    {
+        "Date": "28-Sep",
+        "Value Date": "28Sep25",
+        "Description": "OUTWARD CLG TXN CHARGES - EX PRess 0000",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 71732.9
+    },
+    {
+        "Date": "28-Sep",
+        "Value Date": "28Sep25",
+        "Description": "BY INST 22616902 : OWCLG EXP NPR 3RD SUMAN TRADERS 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 116732.9
+    },
+    {
+        "Date": "28-Sep",
+        "Value Date": "28Sep25",
+        "Description": "REJECT:22616902:EFFECTS NOT CLEARED PLEASE PRESENT SUMAN TRADERS 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 71732.9
+    },
+    {
+        "Date": "28-Sep",
+        "Value Date": "28Sep25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,sapati TO 042 00501205275 M76703965 0420",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 51732.9
+    },
+    {
+        "Date": "28-Sep",
+        "Value Date": "28Sep25",
+        "Description": "OUTWARD CLG TXN CHARGES - EX PRess 0000",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 51632.9
+    },
+    {
+        "Date": "28-Sep",
+        "Value Date": "28Sep25",
+        "Description": "BY INST 22616922 : OWCLG EXP NPR 4TH suman traders 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 96632.9
+    },
+    {
+        "Date": "29-Sep",
+        "Value Date": "29Sep25",
+        "Description": "4813670002486602 TRACE 07007216/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 86632.9
+    },
+    {
+        "Date": "30-Sep",
+        "Value Date": "30Sep25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,sapati chukta/ET NEBLNP KA;26901007465813000001 M769 03725 0420",
+        "Debit": 20010.0,
+        "Credit": NaN,
+        "Balance": 66622.9
+    },
+    {
+        "Date": "04-Oct",
+        "Value Date": "04Oct25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kiran Ad/ETT GLBBNPKA;3 1607010049595 M77166743 0420",
+        "Debit": 4010.0,
+        "Credit": NaN,
+        "Balance": 62612.9
+    },
+    {
+        "Date": "07-Oct",
+        "Value Date": "07Oct25",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M77347682/ 985507 1250 M77347682 0420",
+        "Debit": 300.0,
+        "Credit": NaN,
+        "Balance": 62312.9
+    },
+    {
+        "Date": "07-Oct",
+        "Value Date": "07Oct25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,samuha kosh/ETT PRVUNPK A;3347053942100018 M77410956 0420",
+        "Debit": 24243.0,
+        "Credit": NaN,
+        "Balance": 38069.9
+    },
+    {
+        "Date": "12-Oct",
+        "Value Date": "12Oct25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kiran kharcha/ET SGBBNP KA;06901200230238000001 M778 58324 0420",
+        "Debit": 2510.0,
+        "Credit": NaN,
+        "Balance": 35559.9
+    },
+    {
+        "Date": "13-Oct",
+        "Value Date": "13Oct25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,jaggako vuktani/ PRVUNP KA;2487040900500018 M7786392 0 0420",
+        "Debit": 25010.0,
+        "Credit": NaN,
+        "Balance": 10549.9
+    },
+    {
+        "Date": "17-Oct",
+        "Value Date": "17Oct25",
+        "Description": "04200501202549:WTax Pd:17-07 -2025 to 17-10-2025 Interest run 0420",
+        "Debit": 13.98,
+        "Credit": NaN,
+        "Balance": 10535.92
+    },
+    {
+        "Date": "17-Oct",
+        "Value Date": "17Oct25",
+        "Description": "04200501202549:Int.Pd:17-07- 2025 to 17-10-2025 Interest run 0420",
+        "Debit": 233.03,
+        "Credit": NaN,
+        "Balance": 10768.95
+    },
+    {
+        "Date": "19-Oct",
+        "Value Date": "19Oct25",
+        "Description": "9855071250/ESEWA,M78586413/E TT 9841629925,bankXPMob M785 86413 0420",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 768.95
+    },
+    {
+        "Date": "20-Oct",
+        "Value Date": "20Oct25",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/517418502 0010",
+        "Debit": 49500.0,
+        "Credit": NaN,
+        "Balance": 50268.95
+    },
+    {
+        "Date": "21-Oct",
+        "Value Date": "21Oct25",
+        "Description": "4813670002486602 TRACE 05003512/2 EB042001",
+        "Debit": 15000.0,
+        "Credit": NaN,
+        "Balance": 35268.95
+    },
+    {
+        "Date": "21-Oct",
+        "Value Date": "21Oct25",
+        "Description": "4813670002486602 TRACE 05003513/2 EB042001",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 15268.95
+    },
+    {
+        "Date": "27-Oct",
+        "Value Date": "27Oct25",
+        "Description": "FPY:IBFT:1113297349:4881:EVB LNPKA:NEBLNPKA:MAKUN 0006576 84675:25102 NEBLNPKA-4608140 9 0000",
+        "Debit": 15000.0,
+        "Credit": NaN,
+        "Balance": 30268.95
+    },
+    {
+        "Date": "29-Oct",
+        "Value Date": "29Oct25",
+        "Description": "9855071250/QR Pay,BHUTANDEVI MEDICAL HALL/ETT 915723 4GHxXm M79339672 0420",
+        "Debit": 140.0,
+        "Credit": NaN,
+        "Balance": 30128.95
+    },
+    {
+        "Date": "29-Oct",
+        "Value Date": "29Oct25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,mo kha TO 042 00501205275 M79383299 0420",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 25128.95
+    },
+    {
+        "Date": "29-Oct",
+        "Value Date": "29Oct25",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M79395996/ 985507 1250 M79395996 0420",
+        "Debit": 300.0,
+        "Credit": NaN,
+        "Balance": 24828.95
+    },
+    {
+        "Date": "02-Nov",
+        "Value Date": "02Nov25",
+        "Description": "OUTWARD CLG TXN CHARGES - EX PRess 0000",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 24728.95
+    },
+    {
+        "Date": "02-Nov",
+        "Value Date": "02Nov25",
+        "Description": "BY INST 22616928 : OWCLG EXP NPR 2ND suman traders 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 69728.95
+    },
+    {
+        "Date": "02-Nov",
+        "Value Date": "02Nov25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,sapat/ TO 042 00501205275 M79734546 0420",
+        "Debit": 8000.0,
+        "Credit": NaN,
+        "Balance": 61728.95
+    },
+    {
+        "Date": "02-Nov",
+        "Value Date": "02Nov25",
+        "Description": "4813670002486602 TRACE 19006025/2 EB042001",
+        "Debit": 18000.0,
+        "Credit": NaN,
+        "Balance": 43728.95
+    },
+    {
+        "Date": "02-Nov",
+        "Value Date": "02Nov25",
+        "Description": "4813670002486602 TRACE 19006026/2 EB042001",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 23728.95
+    },
+    {
+        "Date": "02-Nov",
+        "Value Date": "02Nov25",
+        "Description": "4813670002486602 TRACE 19006027/2 EB042001",
+        "Debit": 12000.0,
+        "Credit": NaN,
+        "Balance": 11728.95
+    },
+    {
+        "Date": "03-Nov",
+        "Value Date": "03Nov25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,vadakuda p/ETT KMBLNPKA ;0580129947900001 M79866606 0420",
+        "Debit": 10010.0,
+        "Credit": NaN,
+        "Balance": 1718.95
+    },
+    {
+        "Date": "03-Nov",
+        "Value Date": "03Nov25",
+        "Description": "9855071250/ESEWA,M79869342/E TT 9845995977,bankXPMob M798 69342 0420",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 718.95
+    },
+    {
+        "Date": "05-Nov",
+        "Value Date": "05Nov25",
+        "Description": "9845903502/bankXPMob,KALYANI SUBEDI,sapat/ETT TO 0420050 1202549 M80018063 0420",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 20718.95
+    },
+    {
+        "Date": "05-Nov",
+        "Value Date": "05Nov25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,tel p/ETT PRVUNPKA;1700 113674700011 M80020456 0420",
+        "Debit": 4910.0,
+        "Credit": NaN,
+        "Balance": 15808.95
+    },
+    {
+        "Date": "05-Nov",
+        "Value Date": "05Nov25",
+        "Description": "9855071250/QR Pay,DUPCHESHWO R OIL STORES/ETT 9353520pBtv R M80047843 0420",
+        "Debit": 4000.0,
+        "Credit": NaN,
+        "Balance": 11808.95
+    },
+    {
+        "Date": "07-Nov",
+        "Value Date": "07Nov25",
+        "Description": "4813670002486602 TRACE 07006989/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 1808.95
+    },
+    {
+        "Date": "07-Nov",
+        "Value Date": "07Nov25",
+        "Description": "FPY:IBFT:1132441495:4916:EVB LNPKA:ADBLNPKA:SHRIS 0006702 13134:25110 ADBLNPKA-3482709 0 0000",
+        "Debit": 4500.0,
+        "Credit": NaN,
+        "Balance": 6308.95
+    },
+    {
+        "Date": "08-Nov",
+        "Value Date": "08Nov25",
+        "Description": "FPY:IBFT:1133947655:4919:EVB LNPKA:PRVUNPKA:TARA 00067108 2447:25110 PRVUNPKA-13008103 5 0000",
+        "Debit": 15600.0,
+        "Credit": NaN,
+        "Balance": 21908.95
+    },
+    {
+        "Date": "08-Nov",
+        "Value Date": "08Nov25",
+        "Description": "SEWAK PHARMA/EBLNQR@999 NQR PAYABLE EBL_NQR-1421011,dab 0420",
+        "Debit": 995.0,
+        "Credit": NaN,
+        "Balance": 20913.95
+    },
+    {
+        "Date": "09-Nov",
+        "Value Date": "09Nov25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,ghas katney mach SIDDNP KA;55505449917 M80393327 042 0",
+        "Debit": 1010.0,
+        "Credit": NaN,
+        "Balance": 19903.95
+    },
+    {
+        "Date": "09-Nov",
+        "Value Date": "09Nov25",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M80403715/E 974532 3655 M80403715 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 19403.95
+    },
+    {
+        "Date": "10-Nov",
+        "Value Date": "10Nov25",
+        "Description": "4813670002486602 TRACE 20007966/2 EB042001",
+        "Debit": 13000.0,
+        "Credit": NaN,
+        "Balance": 6403.95
+    },
+    {
+        "Date": "11-Nov",
+        "Value Date": "11Nov25",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/527768410 0010",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 16403.95
+    },
+    {
+        "Date": "11-Nov",
+        "Value Date": "11Nov25",
+        "Description": "9845903502/bankXPMob,KALYANI SUBEDI,sapati/ETT TO 042005 01202549 M80631318 0420",
+        "Debit": 26000.0,
+        "Credit": NaN,
+        "Balance": 42403.95
+    },
+    {
+        "Date": "11-Nov",
+        "Value Date": "11Nov25",
+        "Description": "SHIKHAR INSURANCE COMPANY/EB LNQR@999 IDT NCHL QR ACQUIRN G STLMNT N EBL_NQR-1429790,s ed 0420",
+        "Debit": 38704.0,
+        "Credit": NaN,
+        "Balance": 3699.95
+    },
+    {
+        "Date": "12-Nov",
+        "Value Date": "12Nov25",
+        "Description": "9855071250/ESEWA,M80735752/E TT 9821837239,bankXPMob M807 35752 0420",
+        "Debit": 2000.0,
+        "Credit": NaN,
+        "Balance": 1699.95
+    },
+    {
+        "Date": "14-Nov",
+        "Value Date": "14Nov25",
+        "Description": "Simalthali Unnat Bakhra Utpa d/EBL CIPS/529270889 0010",
+        "Debit": 5300.0,
+        "Credit": NaN,
+        "Balance": 6999.95
+    },
+    {
+        "Date": "14-Nov",
+        "Value Date": "14Nov25",
+        "Description": "9855071250/ESEWA,M80960163/E TT 9821837230,bankXPMob M809 60163 0420",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 5999.95
+    },
+    {
+        "Date": "15-Nov",
+        "Value Date": "15Nov25",
+        "Description": "4813670002486602 TRACE 07008982/2 EB042001",
+        "Debit": 4000.0,
+        "Credit": NaN,
+        "Balance": 1999.95
+    },
+    {
+        "Date": "16-Nov",
+        "Value Date": "16Nov25",
+        "Description": "9855071250/Ncell Topup,bankX PMob,M81117895/ETT 981122287 5 M81117895 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 1899.95
+    },
+    {
+        "Date": "16-Nov",
+        "Value Date": "16Nov25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,met/ET TO 042 00501205275 M81138665 0420",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 899.95
+    },
+    {
+        "Date": "16-Nov",
+        "Value Date": "16Nov25",
+        "Description": "WD:1763299273160:EVBLNPKA ES EWA TXN 0000",
+        "Debit": 2000.0,
+        "Credit": NaN,
+        "Balance": 2899.95
+    },
+    {
+        "Date": "17-Nov",
+        "Value Date": "17Nov25",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/530503562 0010",
+        "Debit": 49000.0,
+        "Credit": NaN,
+        "Balance": 51899.95
+    },
+    {
+        "Date": "17-Nov",
+        "Value Date": "17Nov25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kath chireko/ETT ADBLNP KA;0508305030328011 M8125470 3 0420",
+        "Debit": 8010.0,
+        "Credit": NaN,
+        "Balance": 43889.95
+    },
+    {
+        "Date": "17-Nov",
+        "Value Date": "17Nov25",
+        "Description": "9855071250/ESEWA,M81267459/E TT 9821837230,bankXPMob M812 67459 0420",
+        "Debit": 2000.0,
+        "Credit": NaN,
+        "Balance": 41889.95
+    },
+    {
+        "Date": "18-Nov",
+        "Value Date": "18Nov25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,sapati/ETT ADBLNPKA;050 8301758062010 M81308362 0420",
+        "Debit": 40010.0,
+        "Credit": NaN,
+        "Balance": 1879.95
+    },
+    {
+        "Date": "18-Nov",
+        "Value Date": "18Nov25",
+        "Description": "9845903502/bankXPMob,KALYANI SUBEDI,pay/ETT TO 042005012 02549 M81318899 0420",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 21879.95
+    },
+    {
+        "Date": "18-Nov",
+        "Value Date": "18Nov25",
+        "Description": "OUTWARD CLG TXN CHARGES OUTW ARD CLG TXN CHARGES 0000",
+        "Debit": 30.0,
+        "Credit": NaN,
+        "Balance": 21849.95
+    },
+    {
+        "Date": "18-Nov",
+        "Value Date": "18Nov25",
+        "Description": "BY INST 15636930 : OWCLG GEN ERAL NPR prakash adhikari 0 000",
+        "Debit": 800000.0,
+        "Credit": NaN,
+        "Balance": 821849.95
+    },
+    {
+        "Date": "18-Nov",
+        "Value Date": "18Nov25",
+        "Description": "BY INST 15636931 : OWCLG GEN ERAL NPR prakash adhikari 0 000",
+        "Debit": 750000.0,
+        "Credit": NaN,
+        "Balance": 1571849.95
+    },
+    {
+        "Date": "18-Nov",
+        "Value Date": "18Nov25",
+        "Description": "REJECT:15636930:EFFECTS NOT CLEARED PLEASE PRESENT praka sh adhikari 0000",
+        "Debit": 800000.0,
+        "Credit": NaN,
+        "Balance": 771849.95
+    },
+    {
+        "Date": "18-Nov",
+        "Value Date": "18Nov25",
+        "Description": "REJECT:15636931:EFFECTS NOT CLEARED PLEASE PRESENT praka sh adhikari 0000",
+        "Debit": 750000.0,
+        "Credit": NaN,
+        "Balance": 21849.95
+    },
+    {
+        "Date": "18-Nov",
+        "Value Date": "18Nov25",
+        "Description": "9855071250/QR Pay,PRAKASH HO TEL & LODGE/ETT 97244340XM67 M81350918 0420",
+        "Debit": 2300.0,
+        "Credit": NaN,
+        "Balance": 19549.95
+    },
+    {
+        "Date": "19-Nov",
+        "Value Date": "19Nov25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,advance/ETT BOALNPKA;89 02008815352401 M81356421 042 0",
+        "Debit": 15010.0,
+        "Credit": NaN,
+        "Balance": 4539.95
+    },
+    {
+        "Date": "19-Nov",
+        "Value Date": "19Nov25",
+        "Description": "Simalthali Unnat Bakhra Utpa d/EBL CIPS/531131712 0010",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 24539.95
+    },
+    {
+        "Date": "19-Nov",
+        "Value Date": "19Nov25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,tel/ETT PRVUNPKA;170011 3674700011 M81386467 0420",
+        "Debit": 4010.0,
+        "Credit": NaN,
+        "Balance": 20529.95
+    },
+    {
+        "Date": "19-Nov",
+        "Value Date": "19Nov25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kukhura/ETT SGBBNPKA;05 901900510835000001 M81387753 0420",
+        "Debit": 2810.0,
+        "Credit": NaN,
+        "Balance": 17719.95
+    },
+    {
+        "Date": "19-Nov",
+        "Value Date": "19Nov25",
+        "Description": "BY INST 22616938 : OWCLG GEN ERAL NPR SUMAN TRADERS 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 62719.95
+    },
+    {
+        "Date": "20-Nov",
+        "Value Date": "20Nov25",
+        "Description": "4813670002486602 TRACE 20000464/2 EB042001",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 42719.95
+    },
+    {
+        "Date": "20-Nov",
+        "Value Date": "20Nov25",
+        "Description": "4813670002486602 TRACE 20000465/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 32719.95
+    },
+    {
+        "Date": "23-Nov",
+        "Value Date": "23Nov25",
+        "Description": "OUTWARD CLG TXN CHARGES OUTW ARD CLG TXN CHARGES 0000",
+        "Debit": 30.0,
+        "Credit": NaN,
+        "Balance": 32689.95
+    },
+    {
+        "Date": "23-Nov",
+        "Value Date": "23Nov25",
+        "Description": "BY INST 15636930 : OWCLG GEN ERAL NPR PRAKASH ADHIKARI 0 000",
+        "Debit": 800000.0,
+        "Credit": NaN,
+        "Balance": 832689.95
+    },
+    {
+        "Date": "23-Nov",
+        "Value Date": "23Nov25",
+        "Description": "BY INST 15636931 : OWCLG GEN ERAL NPR PRAKASH ADHIKARI 0 000",
+        "Debit": 750000.0,
+        "Credit": NaN,
+        "Balance": 1582689.95
+    },
+    {
+        "Date": "23-Nov",
+        "Value Date": "23Nov25",
+        "Description": "REJECT:15636930:EFFECTS NOT CLEARED PLEASE PRESENT PRAKA SH ADHIKARI 0000",
+        "Debit": 800000.0,
+        "Credit": NaN,
+        "Balance": 782689.95
+    },
+    {
+        "Date": "23-Nov",
+        "Value Date": "23Nov25",
+        "Description": "REJECT:15636931:EFFECTS NOT CLEARED PLEASE PRESENT PRAKA SH ADHIKARI 0000",
+        "Debit": 750000.0,
+        "Credit": NaN,
+        "Balance": 32689.95
+    },
+    {
+        "Date": "25-Nov",
+        "Value Date": "25Nov25",
+        "Description": "4813670002486602 TRACE 19001767/2 EB042001",
+        "Debit": 15000.0,
+        "Credit": NaN,
+        "Balance": 17689.95
+    },
+    {
+        "Date": "26-Nov",
+        "Value Date": "26Nov25",
+        "Description": "OUTWARD CLG TXN CHARGES OUTW ARD CLG TXN CHARGES 0000",
+        "Debit": 30.0,
+        "Credit": NaN,
+        "Balance": 17659.95
+    },
+    {
+        "Date": "26-Nov",
+        "Value Date": "26Nov25",
+        "Description": "BY INST 15636931 : OWCLG GEN ERAL NPR PRAKASH ADHIKARI 0 000",
+        "Debit": 750000.0,
+        "Credit": NaN,
+        "Balance": 767659.95
+    },
+    {
+        "Date": "26-Nov",
+        "Value Date": "26Nov25",
+        "Description": "BY INST 15636930 : OWCLG GEN ERAL NPR PRAKASH ADHIKARI 0 000",
+        "Debit": 800000.0,
+        "Credit": NaN,
+        "Balance": 1567659.95
+    },
+    {
+        "Date": "26-Nov",
+        "Value Date": "26Nov25",
+        "Description": "REJECT:15636931:EFFECTS NOT CLEARED PLEASE PRESENT PRAKA SH ADHIKARI 0000",
+        "Debit": 750000.0,
+        "Credit": NaN,
+        "Balance": 817659.95
+    },
+    {
+        "Date": "26-Nov",
+        "Value Date": "26Nov25",
+        "Description": "REJECT:15636930:EFFECTS NOT CLEARED PLEASE PRESENT PRAKA SH ADHIKARI 0000",
+        "Debit": 800000.0,
+        "Credit": NaN,
+        "Balance": 17659.95
+    },
+    {
+        "Date": "28-Nov",
+        "Value Date": "28Nov25",
+        "Description": "9855071250/ESEWA,M82296807/E TT 9845995977,bankXPMob M822 96807 0420",
+        "Debit": 1500.0,
+        "Credit": NaN,
+        "Balance": 16159.95
+    },
+    {
+        "Date": "28-Nov",
+        "Value Date": "28Nov25",
+        "Description": "9855071250/ESEWA,M82297323/E TT 9845995977,bankXPMob M822 97323 0420",
+        "Debit": 15.0,
+        "Credit": NaN,
+        "Balance": 16144.95
+    },
+    {
+        "Date": "28-Nov",
+        "Value Date": "28Nov25",
+        "Description": "9855071250/QR Pay,HETAUDA WH EELS PVT LTD/ETT 10007218u9M S M82314424 0420",
+        "Debit": 5500.0,
+        "Credit": NaN,
+        "Balance": 10644.95
+    },
+    {
+        "Date": "30-Nov",
+        "Value Date": "30Nov25",
+        "Description": "9855071250/QR Pay,CHEDI FISH SHOP/ETT 10056171UupK M8246 4570 0420",
+        "Debit": 9500.0,
+        "Credit": NaN,
+        "Balance": 1144.95
+    },
+    {
+        "Date": "02-Dec",
+        "Value Date": "02Dec25",
+        "Description": "FPY:IBFT:1178533904:4990:EVB LNPKA:CTZNNPKA:BIMAL 0006993 02152:25120 CTZNNPKA-8439430 0 0000",
+        "Debit": 32500.0,
+        "Credit": NaN,
+        "Balance": 33644.95
+    },
+    {
+        "Date": "04-Dec",
+        "Value Date": "04Dec25",
+        "Description": "9855071250/QR Pay,New Hetaud a Collection/ETT 10203026zJB j M82954222 0420",
+        "Debit": 3200.0,
+        "Credit": NaN,
+        "Balance": 30444.95
+    },
+    {
+        "Date": "05-Dec",
+        "Value Date": "05Dec25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kukhura/ETT ADBLNPKA;05 08301776582013 M82995060 042 0",
+        "Debit": 2410.0,
+        "Credit": NaN,
+        "Balance": 28034.95
+    },
+    {
+        "Date": "05-Dec",
+        "Value Date": "05Dec25",
+        "Description": "9855071250/M82999250,KHALTI, 9802980212/ETT bankXPMob M82 999250 0420",
+        "Debit": 2420.0,
+        "Credit": NaN,
+        "Balance": 25614.95
+    },
+    {
+        "Date": "05-Dec",
+        "Value Date": "05Dec25",
+        "Description": "9855071250/ESEWA,M83001300/E TT 9821837230,bankXPMob M830 01300 0420",
+        "Debit": 3000.0,
+        "Credit": NaN,
+        "Balance": 22614.95
+    },
+    {
+        "Date": "05-Dec",
+        "Value Date": "05Dec25",
+        "Description": "4813670002486602 TRACE 19004591/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 12614.95
+    },
+    {
+        "Date": "07-Dec",
+        "Value Date": "07Dec25",
+        "Description": "9855071250/ESEWA,M83200311/E TT 9865467601,bankXPMob M832 00311 0420",
+        "Debit": 10.0,
+        "Credit": NaN,
+        "Balance": 12604.95
+    },
+    {
+        "Date": "08-Dec",
+        "Value Date": "08Dec25",
+        "Description": "ASALI MAYA THING/NSBI ASALI MAYA THING CIPS/544902516 00 10",
+        "Debit": 25000.0,
+        "Credit": NaN,
+        "Balance": 37604.95
+    },
+    {
+        "Date": "09-Dec",
+        "Value Date": "09Dec25",
+        "Description": "FPY:IBFT:1191171599:5010:EVB LNPKA:NEBLNPKA:MAKUN 0007069 86190:25120 NEBLNPKA-5008164 4 0000",
+        "Debit": 30000.0,
+        "Credit": NaN,
+        "Balance": 67604.95
+    },
+    {
+        "Date": "09-Dec",
+        "Value Date": "09Dec25",
+        "Description": "9855071250/ESEWA,M83433664/E TT 9845995977,bankXPMob M834 33664 0420",
+        "Debit": 2000.0,
+        "Credit": NaN,
+        "Balance": 65604.95
+    },
+    {
+        "Date": "10-Dec",
+        "Value Date": "10Dec25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,SuChi darta/ETT SNMANPK A;062011060001352 M83478492 0420",
+        "Debit": 610.0,
+        "Credit": NaN,
+        "Balance": 64994.95
+    },
+    {
+        "Date": "10-Dec",
+        "Value Date": "10Dec25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,paymen TO 042 00501205275 M83502104 0420",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 59994.95
+    },
+    {
+        "Date": "10-Dec",
+        "Value Date": "10Dec25",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,pay/ET TO 001 00501227190 M83511460 0420",
+        "Debit": 4500.0,
+        "Credit": NaN,
+        "Balance": 55494.95
+    },
+    {
+        "Date": "10-Dec",
+        "Value Date": "10Dec25",
+        "Description": "9855071250/QR Pay,BISHAL ARY AL/ETT 10369527i4FS M8352409 5 0420",
+        "Debit": 120.0,
+        "Credit": NaN,
+        "Balance": 55374.95
+    },
+    {
+        "Date": "11-Dec",
+        "Value Date": "11Dec25",
+        "Description": "4813670002486602 TRACE 07006536/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 45374.95
+    },
+    {
+        "Date": "12-Dec",
+        "Value Date": "12Dec25",
+        "Description": "9855071250/QR Pay,Rasik Ente rprises/ETT 10428553lioA M83 729425 0420",
+        "Debit": 8600.0,
+        "Credit": NaN,
+        "Balance": 36774.95
+    },
+    {
+        "Date": "12-Dec",
+        "Value Date": "12Dec25",
+        "Description": "9855071250/QR Pay,HETAUDA CO LLECTION/ETT 10449122IIe8 M8 3763195 0420",
+        "Debit": 2200.0,
+        "Credit": NaN,
+        "Balance": 34574.95
+    },
+    {
+        "Date": "14-Dec",
+        "Value Date": "14Dec25",
+        "Description": "9855071250/SQR,0000290052425 /ETT 888094404105,EV-220654 M830106,EV-220654 0420",
+        "Debit": 3350.0,
+        "Credit": NaN,
+        "Balance": 31224.95
+    },
+    {
+        "Date": "15-Dec",
+        "Value Date": "15Dec25",
+        "Description": "4813670002486602 TRACE 13008045/2 EB042001",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 11224.95
+    },
+    {
+        "Date": "16-Dec",
+        "Value Date": "16Dec25",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/549240656 0010",
+        "Debit": 49000.0,
+        "Credit": NaN,
+        "Balance": 60224.95
+    },
+    {
+        "Date": "17-Dec",
+        "Value Date": "17Dec25",
+        "Description": "BY INST 22616949 : OWCLG GEN ERAL NPR SUMAN TRADERS 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 105224.95
+    },
+    {
+        "Date": "17-Dec",
+        "Value Date": "17Dec25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,peski/ETT NARBNPKA;0110 017501308 M84310282 0420",
+        "Debit": 25010.0,
+        "Credit": NaN,
+        "Balance": 80214.95
+    },
+    {
+        "Date": "22-Dec",
+        "Value Date": "22Dec25",
+        "Description": "4813670002486602 TRACE 10007639/2 EB031001",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 60214.95
+    },
+    {
+        "Date": "22-Dec",
+        "Value Date": "22Dec25",
+        "Description": "4813670002486602 TRACE 10007640/2 EB031001",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 40214.95
+    },
+    {
+        "Date": "22-Dec",
+        "Value Date": "22Dec25",
+        "Description": "4813670002486602 TRACE 10007641/2 EB031001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 30214.95
+    },
+    {
+        "Date": "23-Dec",
+        "Value Date": "23Dec25",
+        "Description": "9855071250/ESEWA,M84896457/E TT 9855069171,bankXPMob M848 96457 0420",
+        "Debit": 13000.0,
+        "Credit": NaN,
+        "Balance": 17214.95
+    },
+    {
+        "Date": "23-Dec",
+        "Value Date": "23Dec25",
+        "Description": "9855071250/ESEWA,M84946243/E TT 9841534995,bankXPMob M849 46243 0420",
+        "Debit": 15000.0,
+        "Credit": NaN,
+        "Balance": 2214.95
+    },
+    {
+        "Date": "23-Dec",
+        "Value Date": "23Dec25",
+        "Description": "9841534995/bankXPMob,PAWAN A CHARYA,Esewa ma halak TO 042 00501202549 M84968094 0010",
+        "Debit": 15000.0,
+        "Credit": NaN,
+        "Balance": 17214.95
+    },
+    {
+        "Date": "29-Dec",
+        "Value Date": "29Dec25",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M85227349/E 984121 0496 M85227349 0420",
+        "Debit": 200.0,
+        "Credit": NaN,
+        "Balance": 17014.95
+    },
+    {
+        "Date": "29-Dec",
+        "Value Date": "29Dec25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,petrol/ETT PRVUNPKA;170 0113674700011 M85270556 0420",
+        "Debit": 2810.0,
+        "Credit": NaN,
+        "Balance": 14204.95
+    },
+    {
+        "Date": "30-Dec",
+        "Value Date": "30Dec25",
+        "Description": "9845903502/bankXPMob,KALYANI SUBEDI,sapati/ETT TO 042005 01202549 M85319443 0420",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 24204.95
+    },
+    {
+        "Date": "30-Dec",
+        "Value Date": "30Dec25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,boka ko payment/ KMBLNP KA;0260153168600001 M8531985 1 0420",
+        "Debit": 20010.0,
+        "Credit": NaN,
+        "Balance": 4194.95
+    },
+    {
+        "Date": "30-Dec",
+        "Value Date": "30Dec25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,gadi vada/ETT PRVUNPKA; 3447022820800018 M85400043 0 420",
+        "Debit": 3010.0,
+        "Credit": NaN,
+        "Balance": 1184.95
+    },
+    {
+        "Date": "31-Dec",
+        "Value Date": "31Dec25",
+        "Description": "HETAUDA COLLECTION/GLOBAL Ot hers: pay CIPS/556419892 001 0",
+        "Debit": 50000.0,
+        "Credit": NaN,
+        "Balance": 51184.95
+    },
+    {
+        "Date": "31-Dec",
+        "Value Date": "31Dec25",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,gadi vada surkhe PRVUNP KA;3447022820800018 M8548752 3 0420",
+        "Debit": 42010.0,
+        "Credit": NaN,
+        "Balance": 9174.95
+    },
+    {
+        "Date": "31-Dec",
+        "Value Date": "31Dec25",
+        "Description": "9855071250/ESEWA,M85510642/E TT 9821191097,bankXPMob M855 10642 0420",
+        "Debit": 8500.0,
+        "Credit": NaN,
+        "Balance": 674.95
+    },
+    {
+        "Date": "01-Jan",
+        "Value Date": "01Jan26",
+        "Description": "9841534995/bankXPMob,PAWAN A CHARYA,Govinda Dai La TO 042 00501202549 M85569138 0010",
+        "Debit": 30000.0,
+        "Credit": NaN,
+        "Balance": 30674.95
+    },
+    {
+        "Date": "02-Jan",
+        "Value Date": "02Jan26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,sapati TO 001 00501220474 M85675134 0420",
+        "Debit": 30000.0,
+        "Credit": NaN,
+        "Balance": 674.95
+    },
+    {
+        "Date": "14-Jan",
+        "Value Date": "14Jan26",
+        "Description": "04200501202549:WTax Pd:18-10 -2025 to 14-01-2026 Interest run 0420",
+        "Debit": 8.52,
+        "Credit": NaN,
+        "Balance": 666.43
+    },
+    {
+        "Date": "14-Jan",
+        "Value Date": "14Jan26",
+        "Description": "04200501202549:Int.Pd:18-10- 2025 to 14-01-2026 Interest run 0420",
+        "Debit": 141.97,
+        "Credit": NaN,
+        "Balance": 808.4
+    },
+    {
+        "Date": "15-Jan",
+        "Value Date": "15Jan26",
+        "Description": "9855071250/Ncell Topup,bankX PMob,M87061584/ETT 970952828 6 M87061584 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 708.4
+    },
+    {
+        "Date": "19-Jan",
+        "Value Date": "19Jan26",
+        "Description": "9845903502/bankXPMob,KALYANI SUBEDI,sapat/ETT TO 0420050 1202549 M87467270 0420",
+        "Debit": 15000.0,
+        "Credit": NaN,
+        "Balance": 15708.4
+    },
+    {
+        "Date": "19-Jan",
+        "Value Date": "19Jan26",
+        "Description": "9855071250/ESEWA,M87468313/E TT 9845174088,bankXPMob M874 68313 0420",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 5708.4
+    },
+    {
+        "Date": "20-Jan",
+        "Value Date": "20Jan26",
+        "Description": "ADHIKARI AGROVET/EBLNQR@999 NQR PAYABLE EBL_NQR-1643997, sid 0420",
+        "Debit": 130.0,
+        "Credit": NaN,
+        "Balance": 5578.4
+    },
+    {
+        "Date": "20-Jan",
+        "Value Date": "20Jan26",
+        "Description": "4813670002486602 TRACE 15008502/2 EB042001",
+        "Debit": 4000.0,
+        "Credit": NaN,
+        "Balance": 1578.4
+    },
+    {
+        "Date": "20-Jan",
+        "Value Date": "20Jan26",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/583112641 0010",
+        "Debit": 49500.0,
+        "Credit": NaN,
+        "Balance": 51078.4
+    },
+    {
+        "Date": "20-Jan",
+        "Value Date": "20Jan26",
+        "Description": "9855071250/QR Pay,ROSHAN ROH AN BROTHERS KHADHYANN 115854 07MUER M87613734 0420",
+        "Debit": 1960.0,
+        "Credit": NaN,
+        "Balance": 49118.4
+    },
+    {
+        "Date": "21-Jan",
+        "Value Date": "21Jan26",
+        "Description": "9855071250/QR Pay,B.&B. HOSP ITAL PVT. LTD./ETT 11606806N LQm M87694716 0420",
+        "Debit": 825.0,
+        "Credit": NaN,
+        "Balance": 48293.4
+    },
+    {
+        "Date": "22-Jan",
+        "Value Date": "22Jan26",
+        "Description": "BY INST 22616960 : OWCLG EXP NPR 3RD suman traders 0000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 93293.4
+    },
+    {
+        "Date": "22-Jan",
+        "Value Date": "22Jan26",
+        "Description": "OUTWARD CLG TXN CHARGES - EX PRess 0000",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 93193.4
+    },
+    {
+        "Date": "22-Jan",
+        "Value Date": "22Jan26",
+        "Description": "9855071250/QR Pay,THREE C.CA FETERIA PVT LTD/ETT 11637120 e2vv M87800736 0420",
+        "Debit": 150.0,
+        "Credit": NaN,
+        "Balance": 93043.4
+    },
+    {
+        "Date": "22-Jan",
+        "Value Date": "22Jan26",
+        "Description": "SAHARA PHARMACY/EBLNQR@999 N EPALPAY SETTLEMENT A/C EBL_N QR-1654069,dab 0420",
+        "Debit": 1330.0,
+        "Credit": NaN,
+        "Balance": 91713.4
+    },
+    {
+        "Date": "24-Jan",
+        "Value Date": "24Jan26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kista/ETT SGBBNPKA;0110 1900527552000001 M87957433 0 420",
+        "Debit": 9560.0,
+        "Credit": NaN,
+        "Balance": 82153.4
+    },
+    {
+        "Date": "24-Jan",
+        "Value Date": "24Jan26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,thaira TO 042 00501205275 M87996443 0420",
+        "Debit": 3000.0,
+        "Credit": NaN,
+        "Balance": 79153.4
+    },
+    {
+        "Date": "25-Jan",
+        "Value Date": "25Jan26",
+        "Description": "9855071250/QR Pay,HETAUDA RE FERENCE LABORATORY PV 117280 63XvvY M88100109 0420",
+        "Debit": 1530.0,
+        "Credit": NaN,
+        "Balance": 77623.4
+    },
+    {
+        "Date": "27-Jan",
+        "Value Date": "27Jan26",
+        "Description": "9855071250/QR Pay,JAY GURUDE V KHADANAYA SUPPLIERS 117791 48GE4t M88271922 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 77123.4
+    },
+    {
+        "Date": "27-Jan",
+        "Value Date": "27Jan26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,suntala/ETT GLBBNPKA;03 307010020922 M88293513 0420",
+        "Debit": 560.0,
+        "Credit": NaN,
+        "Balance": 76563.4
+    },
+    {
+        "Date": "27-Jan",
+        "Value Date": "27Jan26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 001 00501227190 M88300456 0420",
+        "Debit": 3000.0,
+        "Credit": NaN,
+        "Balance": 73563.4
+    },
+    {
+        "Date": "27-Jan",
+        "Value Date": "27Jan26",
+        "Description": "9855071250/ESEWA,M88344620/E TT 9743272640,bankXPMob M883 44620 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 73063.4
+    },
+    {
+        "Date": "28-Jan",
+        "Value Date": "28Jan26",
+        "Description": "JAYA DURGE JACK WASH CAR/EBL NQR@999 NepalPay QR Parking A/C EBL_NQR-1670491,car 0420",
+        "Debit": 400.0,
+        "Credit": NaN,
+        "Balance": 72663.4
+    },
+    {
+        "Date": "28-Jan",
+        "Value Date": "28Jan26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M88414645/ 985507 1250 M88414645 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 72163.4
+    },
+    {
+        "Date": "28-Jan",
+        "Value Date": "28Jan26",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M88414725/E 984121 0496 M88414725 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 72063.4
+    },
+    {
+        "Date": "28-Jan",
+        "Value Date": "28Jan26",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M88414809/E 984599 5977 M88414809 0420",
+        "Debit": 150.0,
+        "Credit": NaN,
+        "Balance": 71913.4
+    },
+    {
+        "Date": "31-Jan",
+        "Value Date": "31Jan26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,bachat/ETT PRVUNPKA;334 7053942100018 M88694245 0420",
+        "Debit": 23410.0,
+        "Credit": NaN,
+        "Balance": 48503.4
+    },
+    {
+        "Date": "31-Jan",
+        "Value Date": "31Jan26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,gyass/ TO 001 00501227190 M88708973 0420",
+        "Debit": 4000.0,
+        "Credit": NaN,
+        "Balance": 44503.4
+    },
+    {
+        "Date": "02-Feb",
+        "Value Date": "02Feb26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,pay/ET TO 042 00501210576 M88958002 0420",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 43503.4
+    },
+    {
+        "Date": "03-Feb",
+        "Value Date": "03Feb26",
+        "Description": "ATM Transaction Fee For 01-0 2-2026 To 01-02-2027 C452051 /10115014 4813670002486602 0 420",
+        "Debit": 400.0,
+        "Credit": NaN,
+        "Balance": 43103.4
+    },
+    {
+        "Date": "05-Feb",
+        "Value Date": "05Feb26",
+        "Description": "SURYAKUNDA HYDRO-ASBA CHARGE 1301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 43098.4
+    },
+    {
+        "Date": "08-Feb",
+        "Value Date": "08Feb26",
+        "Description": "HOTEL FOREST INN- ASBA CHARG E 1301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 43093.4
+    },
+    {
+        "Date": "10-Feb",
+        "Value Date": "10Feb26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,Tur/ET TO 042 00501210576 M89801769 0420",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 33093.4
+    },
+    {
+        "Date": "10-Feb",
+        "Value Date": "10Feb26",
+        "Description": "9855071250/ESEWA,M89869824/E TT 9845995977,bankXPMob M898 69824 0420",
+        "Debit": 1800.0,
+        "Credit": NaN,
+        "Balance": 31293.4
+    },
+    {
+        "Date": "12-Feb",
+        "Value Date": "12Feb26",
+        "Description": "RIDGE LINE ENERGY-ASBA CHARG E 1301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 31288.4
+    },
+    {
+        "Date": "13-Feb",
+        "Value Date": "13Feb26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M90228433/ 985507 1250 M90228433 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 30788.4
+    },
+    {
+        "Date": "14-Feb",
+        "Value Date": "14Feb26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kamdar kharcha/E RBBANP KA;1910100000623010 M9027925 2 0420",
+        "Debit": 2010.0,
+        "Credit": NaN,
+        "Balance": 28778.4
+    },
+    {
+        "Date": "16-Feb",
+        "Value Date": "16Feb26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,tur kh TO 042 00501210576 M90442459 0420",
+        "Debit": 7000.0,
+        "Credit": NaN,
+        "Balance": 21778.4
+    },
+    {
+        "Date": "17-Feb",
+        "Value Date": "17Feb26",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M90621602/E 984121 0496 M90621602 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 21678.4
+    },
+    {
+        "Date": "17-Feb",
+        "Value Date": "17Feb26",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/598822998 0010",
+        "Debit": 49500.0,
+        "Credit": NaN,
+        "Balance": 71178.4
+    },
+    {
+        "Date": "20-Feb",
+        "Value Date": "20Feb26",
+        "Description": "9855071250/ESEWA,M90999017/E TT 9765958880,bankXPMob M909 99017 0420",
+        "Debit": 1100.0,
+        "Credit": NaN,
+        "Balance": 70078.4
+    },
+    {
+        "Date": "22-Feb",
+        "Value Date": "22Feb26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kotha TO 0420 0501210576 M91110976 0420",
+        "Debit": 30000.0,
+        "Credit": NaN,
+        "Balance": 40078.4
+    },
+    {
+        "Date": "22-Feb",
+        "Value Date": "22Feb26",
+        "Description": "9855071250/QR Pay,TROY CYCLI NG/ETT 12654809x8to M9115965 1 0420",
+        "Debit": 250.0,
+        "Credit": NaN,
+        "Balance": 39828.4
+    },
+    {
+        "Date": "23-Feb",
+        "Value Date": "23Feb26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kista/ETT SGBBNPKA;0110 1900527552000001 M91247848 0 420",
+        "Debit": 6510.0,
+        "Credit": NaN,
+        "Balance": 33318.4
+    },
+    {
+        "Date": "25-Feb",
+        "Value Date": "25Feb26",
+        "Description": "9855071250/ESEWA,M91542366/E TT 9765958880,bankXPMob M915 42366 0420",
+        "Debit": 1100.0,
+        "Credit": NaN,
+        "Balance": 32218.4
+    },
+    {
+        "Date": "26-Feb",
+        "Value Date": "26Feb26",
+        "Description": "9855071250/QR Pay,ADVANCED P HYSIOTHERAPY AND ACCU 127890 58R6OT M91587885 0420",
+        "Debit": 1500.0,
+        "Credit": NaN,
+        "Balance": 30718.4
+    },
+    {
+        "Date": "27-Feb",
+        "Value Date": "27Feb26",
+        "Description": "RIDGE LINE ENERGY -ALLOTMENT 1301080001248131 0000",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 29718.4
+    },
+    {
+        "Date": "27-Feb",
+        "Value Date": "27Feb26",
+        "Description": "PALPA CEMENT-ASBA CHARGE 13 01080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 29713.4
+    },
+    {
+        "Date": "01-Mar",
+        "Value Date": "01Mar26",
+        "Description": "SHIKHAR POWER-ASBA CHARGE 1 301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 29708.4
+    },
+    {
+        "Date": "02-Mar",
+        "Value Date": "02Mar26",
+        "Description": "FPY:IBFT:1365880138:5261:985 5071250:NARBNPKA:TARA 011001 7501308 NARBNPKA-232543695 0 000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 74708.4
+    },
+    {
+        "Date": "03-Mar",
+        "Value Date": "03Mar26",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M92144066/E 984121 0496 M92144066 0420",
+        "Debit": 200.0,
+        "Credit": NaN,
+        "Balance": 74508.4
+    },
+    {
+        "Date": "06-Mar",
+        "Value Date": "06Mar26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,pathikko pey par PRVUNP KA;2557074894500018 M9238626 3 0420",
+        "Debit": 14260.0,
+        "Credit": NaN,
+        "Balance": 60248.4
+    },
+    {
+        "Date": "06-Mar",
+        "Value Date": "06Mar26",
+        "Description": "4813670002486602 TRACE 19000053/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 50248.4
+    },
+    {
+        "Date": "09-Mar",
+        "Value Date": "09Mar26",
+        "Description": "FPY:IBFT:1378846370:5282:EVB LNPKA:NEBLNPKA:MAKUND 269010 07465813000001 NEBLNPKA-5934 4764 0000",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 60248.4
+    },
+    {
+        "Date": "10-Mar",
+        "Value Date": "10Mar26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M92781725/ 985507 1250 M92781725 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 59748.4
+    },
+    {
+        "Date": "11-Mar",
+        "Value Date": "11Mar26",
+        "Description": "SHIKHAR INSURANCE COMPANY LT D/NIBL CLM/10014/AP/25/26/02 868 CIPS/612332706 0010",
+        "Debit": 135535.43,
+        "Credit": NaN,
+        "Balance": 195283.83
+    },
+    {
+        "Date": "11-Mar",
+        "Value Date": "11Mar26",
+        "Description": "SHIKHAR INSURANCE COMPANY LT D/NIBL CLM/10014/PV/25/26/01 698 CIPS/612420335 0010",
+        "Debit": 814345.1,
+        "Credit": NaN,
+        "Balance": 1009628.93
+    },
+    {
+        "Date": "12-Mar",
+        "Value Date": "12Mar26",
+        "Description": "9855071250/QR Pay,B.&B. HOSP ITAL PVT. LTD./ETT 13244571K lYk M93037159 0420",
+        "Debit": 750.0,
+        "Credit": NaN,
+        "Balance": 1008878.93
+    },
+    {
+        "Date": "13-Mar",
+        "Value Date": "13Mar26",
+        "Description": "BNKFT-ips trf GOBINDA PRA/KH AGEN440 pratik subedi ips tr f GOBINDA PRA 0420",
+        "Debit": 700008.0,
+        "Credit": NaN,
+        "Balance": 308870.93
+    },
+    {
+        "Date": "13-Mar",
+        "Value Date": "13Mar26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,riteni TO 042 00501210576 M93163590 0420",
+        "Debit": 6000.0,
+        "Credit": NaN,
+        "Balance": 302870.93
+    },
+    {
+        "Date": "16-Mar",
+        "Value Date": "16Mar26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kotha TO 0010 0501227190 M93548122 0420",
+        "Debit": 30000.0,
+        "Credit": NaN,
+        "Balance": 272870.93
+    },
+    {
+        "Date": "16-Mar",
+        "Value Date": "16Mar26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kista/ETT PRVUNPKA;3347 053942100018 M93567261 0420",
+        "Debit": 27010.0,
+        "Credit": NaN,
+        "Balance": 245860.93
+    },
+    {
+        "Date": "17-Mar",
+        "Value Date": "17Mar26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,ptrol ko pay/ETT PRVUNP KA;1700113674700011 M9357270 3 0420",
+        "Debit": 18910.0,
+        "Credit": NaN,
+        "Balance": 226950.93
+    },
+    {
+        "Date": "18-Mar",
+        "Value Date": "18Mar26",
+        "Description": "9855071250/ESEWA,M93743978/E TT 9706596269,bankXPMob M937 43978 0420",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 225950.93
+    },
+    {
+        "Date": "19-Mar",
+        "Value Date": "19Mar26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,last k TO 001 00501227190 M93852721 0420",
+        "Debit": 3000.0,
+        "Credit": NaN,
+        "Balance": 222950.93
+    },
+    {
+        "Date": "20-Mar",
+        "Value Date": "20Mar26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,letha/ETT NMBBNPKA;0900 146152300018 M93965635 0420",
+        "Debit": 2010.0,
+        "Credit": NaN,
+        "Balance": 220940.93
+    },
+    {
+        "Date": "20-Mar",
+        "Value Date": "20Mar26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M94001476/ 985507 1250 M94001476 0420",
+        "Debit": 300.0,
+        "Credit": NaN,
+        "Balance": 220640.93
+    },
+    {
+        "Date": "25-Mar",
+        "Value Date": "25Mar26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,ils ex TO 001 00501227190 M94604445 0420",
+        "Debit": 16500.0,
+        "Credit": NaN,
+        "Balance": 204140.93
+    },
+    {
+        "Date": "26-Mar",
+        "Value Date": "26Mar26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kpatha pathiko a KMBLNP KA;0260153168600001 M9466207 9 0420",
+        "Debit": 1210.0,
+        "Credit": NaN,
+        "Balance": 202930.93
+    },
+    {
+        "Date": "29-Mar",
+        "Value Date": "29Mar26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kista/ETT PRVUNPKA;3347 053942100018 M95100754 0420",
+        "Debit": 27010.0,
+        "Credit": NaN,
+        "Balance": 175920.93
+    },
+    {
+        "Date": "30-Mar",
+        "Value Date": "30Mar26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M95114482/ 985507 1250 M95114482 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 175420.93
+    },
+    {
+        "Date": "30-Mar",
+        "Value Date": "30Mar26",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/620985479 0010",
+        "Debit": 49500.0,
+        "Credit": NaN,
+        "Balance": 224920.93
+    },
+    {
+        "Date": "30-Mar",
+        "Value Date": "30Mar26",
+        "Description": "9855071250/ESEWA,M95151955/E TT 9864804444,bankXPMob M951 51955 0420",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 219920.93
+    },
+    {
+        "Date": "31-Mar",
+        "Value Date": "31Mar26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,patha pathiko ad KMBLNP KA;0260153168600001 M9527241 4 0420",
+        "Debit": 100010.0,
+        "Credit": NaN,
+        "Balance": 119910.93
+    },
+    {
+        "Date": "31-Mar",
+        "Value Date": "31Mar26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,vussa Rabi/ETT NIBLNPKT ;02505080276078 M95288335 04 20",
+        "Debit": 43510.0,
+        "Credit": NaN,
+        "Balance": 76400.93
+    },
+    {
+        "Date": "01-Apr",
+        "Value Date": "01Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,payment/ETT NEBLNPKA;26 901007618918000001 M95459695 0420",
+        "Debit": 1010.0,
+        "Credit": NaN,
+        "Balance": 75390.93
+    },
+    {
+        "Date": "01-Apr",
+        "Value Date": "01Apr26",
+        "Description": "REV/9855071250/GOBINDA PRASA D SUBEDI,payment/EVBL NA M95 459695 0000",
+        "Debit": 1010.0,
+        "Credit": NaN,
+        "Balance": 76400.93
+    },
+    {
+        "Date": "02-Apr",
+        "Value Date": "02Apr26",
+        "Description": "9855071250/QR Pay,SHREE NIWA SH PLASTIC CENTER/ETT 140124 783b6I M95476191 0420",
+        "Debit": 1500.0,
+        "Credit": NaN,
+        "Balance": 74900.93
+    },
+    {
+        "Date": "02-Apr",
+        "Value Date": "02Apr26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,thap k TO 042 00501210576 M95572347 0420",
+        "Debit": 4000.0,
+        "Credit": NaN,
+        "Balance": 70900.93
+    },
+    {
+        "Date": "03-Apr",
+        "Value Date": "03Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,petrol/ETT PRVUNPKA;170 0113674700011 M95613206 0420",
+        "Debit": 5910.0,
+        "Credit": NaN,
+        "Balance": 64990.93
+    },
+    {
+        "Date": "03-Apr",
+        "Value Date": "03Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,vussa vijeko/ETT BOALNP KA;2655750814048001 M9569575 4 0420",
+        "Debit": 19410.0,
+        "Credit": NaN,
+        "Balance": 45580.93
+    },
+    {
+        "Date": "04-Apr",
+        "Value Date": "04Apr26",
+        "Description": "9855071250/ESEWA,M95719967/E TT 9855054901,bankXPMob M957 19967 0420",
+        "Debit": 8000.0,
+        "Credit": NaN,
+        "Balance": 37580.93
+    },
+    {
+        "Date": "05-Apr",
+        "Value Date": "05Apr26",
+        "Description": "9855071250/ESEWA,M95897967/E TT 9855069171,bankXPMob M958 97967 0420",
+        "Debit": 7500.0,
+        "Credit": NaN,
+        "Balance": 30080.93
+    },
+    {
+        "Date": "06-Apr",
+        "Value Date": "06Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,helambu suchi da NIBLNP KT;02805440255547 M95967295 0420",
+        "Debit": 3010.0,
+        "Credit": NaN,
+        "Balance": 27070.93
+    },
+    {
+        "Date": "06-Apr",
+        "Value Date": "06Apr26",
+        "Description": "KALINCHOWK HYDRO- ASBA CHARG E 1301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 27065.93
+    },
+    {
+        "Date": "07-Apr",
+        "Value Date": "07Apr26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 001 00501227190 M96125691 0420",
+        "Debit": 3000.0,
+        "Credit": NaN,
+        "Balance": 24065.93
+    },
+    {
+        "Date": "09-Apr",
+        "Value Date": "09Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,ptrol yadab/ETT SGBBNPK A;01101200530371000001 M9633 5514 0420",
+        "Debit": 3010.0,
+        "Credit": NaN,
+        "Balance": 21055.93
+    },
+    {
+        "Date": "11-Apr",
+        "Value Date": "11Apr26",
+        "Description": "9855071250/ESEWA,M96637888/E TT 9866121575,bankXPMob M966 37888 0420",
+        "Debit": 7700.0,
+        "Credit": NaN,
+        "Balance": 13355.93
+    },
+    {
+        "Date": "12-Apr",
+        "Value Date": "12Apr26",
+        "Description": "9855071250/QR Pay,SHREE KRIS HNA KHADYANYA BHANDAR 143876 22Eyk7 M96659753 0420",
+        "Debit": 4100.0,
+        "Credit": NaN,
+        "Balance": 9255.93
+    },
+    {
+        "Date": "13-Apr",
+        "Value Date": "13Apr26",
+        "Description": "04200501202549:WTax Pd:15-01 -2026 to 13-04-2026 Interest run 0420",
+        "Debit": 41.95,
+        "Credit": NaN,
+        "Balance": 9213.98
+    },
+    {
+        "Date": "13-Apr",
+        "Value Date": "13Apr26",
+        "Description": "04200501202549:Int.Pd:15-01- 2026 to 13-04-2026 Interest run 0420",
+        "Debit": 699.1,
+        "Credit": NaN,
+        "Balance": 9913.08
+    },
+    {
+        "Date": "15-Apr",
+        "Value Date": "15Apr26",
+        "Description": "APPOLO HYDRO- ASBA CHARGE 1 301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 9908.08
+    },
+    {
+        "Date": "15-Apr",
+        "Value Date": "15Apr26",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M97158034/E 976425 3630 M97158034 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 9808.08
+    },
+    {
+        "Date": "15-Apr",
+        "Value Date": "15Apr26",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M97158316/E 976772 9704 M97158316 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 9708.08
+    },
+    {
+        "Date": "16-Apr",
+        "Value Date": "16Apr26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 042 00501210576 M97271192 0420",
+        "Debit": 3000.0,
+        "Credit": NaN,
+        "Balance": 6708.08
+    },
+    {
+        "Date": "17-Apr",
+        "Value Date": "17Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,peski/ETT PRVUNPKA;2450 283667500015 M97394297 0420",
+        "Debit": 2510.0,
+        "Credit": NaN,
+        "Balance": 4198.08
+    },
+    {
+        "Date": "21-Apr",
+        "Value Date": "21Apr26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M97840047/ 985507 1250 M97840047 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 3698.08
+    },
+    {
+        "Date": "21-Apr",
+        "Value Date": "21Apr26",
+        "Description": "9855071250/QR Pay,Rosi Suppl iers/ETT 14824220fKWc M97920 984 0420",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 2698.08
+    },
+    {
+        "Date": "22-Apr",
+        "Value Date": "22Apr26",
+        "Description": "PAWAN ACHARYA BORROWING 042 0",
+        "Debit": 10000000.0,
+        "Credit": NaN,
+        "Balance": 10002698.08
+    },
+    {
+        "Date": "22-Apr",
+        "Value Date": "22Apr26",
+        "Description": "BHAGIRATHI ADHIKARI 0420 CHQ NO:55906107",
+        "Debit": 4900000.0,
+        "Credit": NaN,
+        "Balance": 5102698.08
+    },
+    {
+        "Date": "22-Apr",
+        "Value Date": "22Apr26",
+        "Description": "SITARAM ADHIKARI 0420 CHQ NO:55906106",
+        "Debit": 4100000.0,
+        "Credit": NaN,
+        "Balance": 1002698.08
+    },
+    {
+        "Date": "23-Apr",
+        "Value Date": "23Apr26",
+        "Description": "9855071250/Load eSewa,M98117 773/ETT 9849725175,bankXPMob M98117773 0420",
+        "Debit": 900.0,
+        "Credit": NaN,
+        "Balance": 1001798.08
+    },
+    {
+        "Date": "23-Apr",
+        "Value Date": "23Apr26",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/639848997 0010",
+        "Debit": 49500.0,
+        "Credit": NaN,
+        "Balance": 1051298.08
+    },
+    {
+        "Date": "24-Apr",
+        "Value Date": "24Apr26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kotha TO 0420 0501210576 M98197523 0420",
+        "Debit": 25000.0,
+        "Credit": NaN,
+        "Balance": 1026298.08
+    },
+    {
+        "Date": "24-Apr",
+        "Value Date": "24Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,motar sical khar ADBLNP KA;0508301091910018 M9823340 3 0420",
+        "Debit": 35010.0,
+        "Credit": NaN,
+        "Balance": 991288.08
+    },
+    {
+        "Date": "25-Apr",
+        "Value Date": "25Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,bokako pey Tilak KMBLNP KA;0260153168600001 M9832697 9 0420",
+        "Debit": 100010.0,
+        "Credit": NaN,
+        "Balance": 891278.08
+    },
+    {
+        "Date": "25-Apr",
+        "Value Date": "25Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,payhapathiko pey KMBLNP KA;0260153168600001 M9834390 9 0420",
+        "Debit": 100010.0,
+        "Credit": NaN,
+        "Balance": 791268.08
+    },
+    {
+        "Date": "25-Apr",
+        "Value Date": "25Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,patha pathiko vu KMBLNP KA;0260153168600001 M9834405 2 0420",
+        "Debit": 20010.0,
+        "Credit": NaN,
+        "Balance": 771258.08
+    },
+    {
+        "Date": "25-Apr",
+        "Value Date": "25Apr26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,ghar v TO 001 00501220474 M98395347 0420",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 726258.08
+    },
+    {
+        "Date": "25-Apr",
+        "Value Date": "25Apr26",
+        "Description": "TARA NATH POKHAREL/NABIL Cip s-(1001/04200501202549/Hou C IPS/640635158 0010",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 771258.08
+    },
+    {
+        "Date": "26-Apr",
+        "Value Date": "26Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kista/ETT SGBBNPKA;0110 1900527552000001 M98518524 0 420",
+        "Debit": 6510.0,
+        "Credit": NaN,
+        "Balance": 764748.08
+    },
+    {
+        "Date": "27-Apr",
+        "Value Date": "27Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,surkhet ko gadi KMBLNPK A;0270026570000001 M98532358 0420",
+        "Debit": 65010.0,
+        "Credit": NaN,
+        "Balance": 699738.08
+    },
+    {
+        "Date": "27-Apr",
+        "Value Date": "27Apr26",
+        "Description": "FPY:IBFT:1493298997:5428:EVB LNPKA:NEBLNPKA:MAKUND 269010 07465813000001 NEBLNPKA-6463 0499 0000",
+        "Debit": 40000.0,
+        "Credit": NaN,
+        "Balance": 739738.08
+    },
+    {
+        "Date": "27-Apr",
+        "Value Date": "27Apr26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,tarala TO 001 00501220474 M98585456 0420",
+        "Debit": 30000.0,
+        "Credit": NaN,
+        "Balance": 709738.08
+    },
+    {
+        "Date": "27-Apr",
+        "Value Date": "27Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,tag ko peyament/ RBBANP KA;1260100025202010 M9864936 8 0420",
+        "Debit": 40010.0,
+        "Credit": NaN,
+        "Balance": 669728.08
+    },
+    {
+        "Date": "28-Apr",
+        "Value Date": "28Apr26",
+        "Description": "FPY:IBFT:1494981158:5430:EVB LNPKA:NEBLNPKA:MAKUND 269010 07465813000001 NEBLNPKA-6470 8700 0000",
+        "Debit": 15000.0,
+        "Credit": NaN,
+        "Balance": 684728.08
+    },
+    {
+        "Date": "28-Apr",
+        "Value Date": "28Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,bokako vuktani t KMBLNP KA;0260153168600001 M9867842 3 0420",
+        "Debit": 100010.0,
+        "Credit": NaN,
+        "Balance": 584718.08
+    },
+    {
+        "Date": "28-Apr",
+        "Value Date": "28Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,pathiko bhuktani KMBLNP KA;0260153168600001 M9867865 4 0420",
+        "Debit": 100010.0,
+        "Credit": NaN,
+        "Balance": 484708.08
+    },
+    {
+        "Date": "28-Apr",
+        "Value Date": "28Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,patha pathiko bh KMBLNP KA;0260153168600001 M9867881 9 0420",
+        "Debit": 100010.0,
+        "Credit": NaN,
+        "Balance": 384698.08
+    },
+    {
+        "Date": "29-Apr",
+        "Value Date": "29Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,bokako bhuktani SNMANPK A;030011100000688 M98778743 0420",
+        "Debit": 100010.0,
+        "Credit": NaN,
+        "Balance": 284688.08
+    },
+    {
+        "Date": "29-Apr",
+        "Value Date": "29Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,Boka ko bhuktani SNMANP KA;030011100000688 M98778754 0420",
+        "Debit": 100010.0,
+        "Credit": NaN,
+        "Balance": 184678.08
+    },
+    {
+        "Date": "29-Apr",
+        "Value Date": "29Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,Boka Pathi Ko bh SNMANP KA;030011100000688 M98778762 0420",
+        "Debit": 50010.0,
+        "Credit": NaN,
+        "Balance": 134668.08
+    },
+    {
+        "Date": "29-Apr",
+        "Value Date": "29Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kista/ETT PRVUNPKA;3347 053942100018 M98791762 0420",
+        "Debit": 27010.0,
+        "Credit": NaN,
+        "Balance": 107658.08
+    },
+    {
+        "Date": "30-Apr",
+        "Value Date": "30Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,bokako pay basud NARBNP KA;22110017500865 M98945169 0420",
+        "Debit": 34860.0,
+        "Credit": NaN,
+        "Balance": 72798.08
+    },
+    {
+        "Date": "30-Apr",
+        "Value Date": "30Apr26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,gadi vada surkhe LXBLNP KA;2241601648205001 M9894556 5 0420",
+        "Debit": 70010.0,
+        "Credit": NaN,
+        "Balance": 2788.08
+    },
+    {
+        "Date": "30-Apr",
+        "Value Date": "30Apr26",
+        "Description": "9855071250/QR Pay,TRIVENI ME AT SHOP/ETT 15190071gQE5 M99 009670 0420",
+        "Debit": 440.0,
+        "Credit": NaN,
+        "Balance": 2348.08
+    },
+    {
+        "Date": "01-May",
+        "Value Date": "01May26",
+        "Description": "BHUTANDEVI MEDICAL HALL/EBLN QR@999 Nepal QR Payable AC E BL_NQR-2013200,met 0420",
+        "Debit": 380.0,
+        "Credit": NaN,
+        "Balance": 1968.08
+    },
+    {
+        "Date": "01-May",
+        "Value Date": "01May26",
+        "Description": "9855071250/QR Pay,NEW TRIBEN I MEDICAL HALL/ETT 15194296g z7r M99027293 0420",
+        "Debit": 445.0,
+        "Credit": NaN,
+        "Balance": 1523.08
+    },
+    {
+        "Date": "01-May",
+        "Value Date": "01May26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M99053523/ 985507 1250 M99053523 0420",
+        "Debit": 300.0,
+        "Credit": NaN,
+        "Balance": 1223.08
+    },
+    {
+        "Date": "01-May",
+        "Value Date": "01May26",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M99059616/E 984121 0496 M99059616 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 1123.08
+    },
+    {
+        "Date": "01-May",
+        "Value Date": "01May26",
+        "Description": "9855071250/QR Pay,NABARAJ HO TEL/ETT 15220672bfLG M991042 20 0420",
+        "Debit": 375.0,
+        "Credit": NaN,
+        "Balance": 748.08
+    },
+    {
+        "Date": "02-May",
+        "Value Date": "02May26",
+        "Description": "9845903502/bankXPMob,KALYANI SUBEDI,babalai sapat TO 042 00501202549 M99192424 0420",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 10748.08
+    },
+    {
+        "Date": "03-May",
+        "Value Date": "03May26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kuloko hetalu k PRVUNP KA;3347055714400018 M9933787 2 0420",
+        "Debit": 3010.0,
+        "Credit": NaN,
+        "Balance": 7738.08
+    },
+    {
+        "Date": "05-May",
+        "Value Date": "05May26",
+        "Description": "4813670002486602 TRACE 09005280/2 EB042001",
+        "Debit": 6000.0,
+        "Credit": NaN,
+        "Balance": 1738.08
+    },
+    {
+        "Date": "06-May",
+        "Value Date": "06May26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M99605089/ 985507 1250 M99605089 0420",
+        "Debit": 300.0,
+        "Credit": NaN,
+        "Balance": 1438.08
+    },
+    {
+        "Date": "06-May",
+        "Value Date": "06May26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 042 00501210576 M99643603 0420",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 438.08
+    },
+    {
+        "Date": "07-May",
+        "Value Date": "07May26",
+        "Description": "9841534995/bankXPMob,PAWAN A CHARYA,Govinda Dai La TO 042 00501202549 M99725642 0010",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 20438.08
+    },
+    {
+        "Date": "07-May",
+        "Value Date": "07May26",
+        "Description": "4813670002486602 TRACE 07005740/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 10438.08
+    },
+    {
+        "Date": "08-May",
+        "Value Date": "08May26",
+        "Description": "FPY:IBFT:1518601133:5460:EVB LNPKA:NEBLNPKA:MAKUND 269010 07465813000001 NEBLNPKA-6577 5030 0000",
+        "Debit": 100000.0,
+        "Credit": NaN,
+        "Balance": 110438.08
+    },
+    {
+        "Date": "08-May",
+        "Value Date": "08May26",
+        "Description": "FPY:IBFT:1518605336:5460:EVB LNPKA:NEBLNPKA:MAKUND 269010 07465813000001 NEBLNPKA-6577 5257 0000",
+        "Debit": 15000.0,
+        "Credit": NaN,
+        "Balance": 125438.08
+    },
+    {
+        "Date": "08-May",
+        "Value Date": "08May26",
+        "Description": "4813670002486602 TRACE 11006002/2 EB042001",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 105438.08
+    },
+    {
+        "Date": "08-May",
+        "Value Date": "08May26",
+        "Description": "4813670002486602 TRACE 11006003/2 EB042001",
+        "Debit": 15000.0,
+        "Credit": NaN,
+        "Balance": 90438.08
+    },
+    {
+        "Date": "08-May",
+        "Value Date": "08May26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,tektorko pement GLBBNPK A;04607010003641 M99921750 0 420",
+        "Debit": 45010.0,
+        "Credit": NaN,
+        "Balance": 45428.08
+    },
+    {
+        "Date": "08-May",
+        "Value Date": "08May26",
+        "Description": "FPY:IBFT:1520544644:5462:EVB LNPKA:GRDBLNPKA:BUDDH 022019 00703119000001 GRDBLNPKA-321 61308 0000",
+        "Debit": 4500.0,
+        "Credit": NaN,
+        "Balance": 49928.08
+    },
+    {
+        "Date": "09-May",
+        "Value Date": "09May26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 042 00501210576 M100079716 0420",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 44928.08
+    },
+    {
+        "Date": "10-May",
+        "Value Date": "10May26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,ptrol ko pya had PRVUNP KA;1700113674700011 M1001131 51 0420",
+        "Debit": 3510.0,
+        "Credit": NaN,
+        "Balance": 41418.08
+    },
+    {
+        "Date": "11-May",
+        "Value Date": "11May26",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M100229107/ 976425 3630 M100229107 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 41318.08
+    },
+    {
+        "Date": "11-May",
+        "Value Date": "11May26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,patha pathiko bh SNMANP KA;030011100000688 M10025313 4 0420",
+        "Debit": 20010.0,
+        "Credit": NaN,
+        "Balance": 21308.08
+    },
+    {
+        "Date": "11-May",
+        "Value Date": "11May26",
+        "Description": "9855071250/Ncell Topup,bankX PMob,M100281094/ETT 98132856 56 M100281094 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 20808.08
+    },
+    {
+        "Date": "11-May",
+        "Value Date": "11May26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 042 00501205275 M100287951 0420",
+        "Debit": 2000.0,
+        "Credit": NaN,
+        "Balance": 18808.08
+    },
+    {
+        "Date": "12-May",
+        "Value Date": "12May26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M100392885 985507 1250 M100392885 0420",
+        "Debit": 300.0,
+        "Credit": NaN,
+        "Balance": 18508.08
+    },
+    {
+        "Date": "12-May",
+        "Value Date": "12May26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M100393495 985507 1250 M100393495 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 18408.08
+    },
+    {
+        "Date": "12-May",
+        "Value Date": "12May26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,mo sar TO 042 00501210576 M100419254 0420",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 13408.08
+    },
+    {
+        "Date": "13-May",
+        "Value Date": "13May26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,sapat/ TO 001 00501227190 M100461753 0420",
+        "Debit": 3000.0,
+        "Credit": NaN,
+        "Balance": 10408.08
+    },
+    {
+        "Date": "13-May",
+        "Value Date": "13May26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M100488459 985507 1250 M100488459 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 10308.08
+    },
+    {
+        "Date": "13-May",
+        "Value Date": "13May26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M100491515 985507 1250 M100491515 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 9808.08
+    },
+    {
+        "Date": "13-May",
+        "Value Date": "13May26",
+        "Description": "SNOW RIVER LID-ASBA CHARGE 1301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 9803.08
+    },
+    {
+        "Date": "14-May",
+        "Value Date": "14May26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,cavoke TO 001 00501227190 M100607350 0420",
+        "Debit": 5500.0,
+        "Credit": NaN,
+        "Balance": 4303.08
+    },
+    {
+        "Date": "14-May",
+        "Value Date": "14May26",
+        "Description": "W-0042514737/2026 /CREDITX@1 23 000001164833 0420",
+        "Debit": 621.5,
+        "Credit": NaN,
+        "Balance": 3681.58
+    },
+    {
+        "Date": "14-May",
+        "Value Date": "14May26",
+        "Description": "W-0042514800/2026 /CREDITX@1 23 000001164838 0420",
+        "Debit": 621.5,
+        "Credit": NaN,
+        "Balance": 3060.08
+    },
+    {
+        "Date": "14-May",
+        "Value Date": "14May26",
+        "Description": "W-0042514828/2026 /CREDITX@1 23 000001164842 0420",
+        "Debit": 621.5,
+        "Credit": NaN,
+        "Balance": 2438.58
+    },
+    {
+        "Date": "14-May",
+        "Value Date": "14May26",
+        "Description": "W-0042514842/2026 /CREDITX@1 23 000001164843 0420",
+        "Debit": 621.5,
+        "Credit": NaN,
+        "Balance": 1817.08
+    },
+    {
+        "Date": "14-May",
+        "Value Date": "14May26",
+        "Description": "W-0042514902/2026 /CREDITX@1 23 000001164849 0420",
+        "Debit": 621.5,
+        "Credit": NaN,
+        "Balance": 1195.58
+    },
+    {
+        "Date": "20-May",
+        "Value Date": "20May26",
+        "Description": "9845903502/bankXPMob,KALYANI SUBEDI,sapati/ETT TO 042005 01202549 M101442828 0420",
+        "Debit": 7000.0,
+        "Credit": NaN,
+        "Balance": 8195.58
+    },
+    {
+        "Date": "20-May",
+        "Value Date": "20May26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 042 00501210576 M101443019 0420",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 3195.58
+    },
+    {
+        "Date": "21-May",
+        "Value Date": "21May26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,lchchi/ETT CTZNNPKA;073 0100001900041 M101535958 042 0",
+        "Debit": 310.0,
+        "Credit": NaN,
+        "Balance": 2885.58
+    },
+    {
+        "Date": "22-May",
+        "Value Date": "22May26",
+        "Description": "REV/9855071250/GOBINDA PRASA D SUBEDI,lchchi/EVBLN NA M10 1535958 0000",
+        "Debit": 310.0,
+        "Credit": NaN,
+        "Balance": 3195.58
+    },
+    {
+        "Date": "24-May",
+        "Value Date": "24May26",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/655982829 0010",
+        "Debit": 49500.0,
+        "Credit": NaN,
+        "Balance": 52695.58
+    },
+    {
+        "Date": "24-May",
+        "Value Date": "24May26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,lkharc TO 042 00501205275 M101866031 0420",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 47695.58
+    },
+    {
+        "Date": "24-May",
+        "Value Date": "24May26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kista/ETT SGBBNPKA;0110 1900527552000001 M101940214 0420",
+        "Debit": 6010.0,
+        "Credit": NaN,
+        "Balance": 41685.58
+    },
+    {
+        "Date": "26-May",
+        "Value Date": "26May26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M102071152 985507 1250 M102071152 0420",
+        "Debit": 300.0,
+        "Credit": NaN,
+        "Balance": 41385.58
+    },
+    {
+        "Date": "26-May",
+        "Value Date": "26May26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,petrol/ETT PRVUNPKA;170 0113674700011 M102082854 042 0",
+        "Debit": 10010.0,
+        "Credit": NaN,
+        "Balance": 31375.58
+    },
+    {
+        "Date": "26-May",
+        "Value Date": "26May26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 042 00501210576 M102182703 0420",
+        "Debit": 7000.0,
+        "Credit": NaN,
+        "Balance": 24375.58
+    },
+    {
+        "Date": "01-Jun",
+        "Value Date": "01Jun26",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M102875165/ 974740 0659 M102875165 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 23875.58
+    },
+    {
+        "Date": "03-Jun",
+        "Value Date": "03Jun26",
+        "Description": "9855071250/QR Pay,DAJUBHAI S WEET AND FAST FOOD/ET 165158 24NOGG M103135121 0420",
+        "Debit": 360.0,
+        "Credit": NaN,
+        "Balance": 23515.58
+    },
+    {
+        "Date": "04-Jun",
+        "Value Date": "04Jun26",
+        "Description": "FPY:IBFT:1587249463:5543:EVB LNPKA:NEBLNPKA:MAKUND 269010 07465813000001 NEBLNPKA-6885 3099 0000",
+        "Debit": 60000.0,
+        "Credit": NaN,
+        "Balance": 83515.58
+    },
+    {
+        "Date": "04-Jun",
+        "Value Date": "04Jun26",
+        "Description": "4813670002486602 TRACE 44806387/2 EB042001",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 63515.58
+    },
+    {
+        "Date": "04-Jun",
+        "Value Date": "04Jun26",
+        "Description": "4813670002486602 TRACE 44806678/2 EB042001",
+        "Debit": 10000.0,
+        "Credit": NaN,
+        "Balance": 53515.58
+    },
+    {
+        "Date": "06-Jun",
+        "Value Date": "06Jun26",
+        "Description": "FPY:IBFT:1590410349:5547:EVB LNPKA:NARBNPKA:TARA N 011001 7501308 NARBNPKA-268551007 0 000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 98515.58
+    },
+    {
+        "Date": "09-Jun",
+        "Value Date": "09Jun26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,bato k TO 001 00501227190 M103757903 0420",
+        "Debit": 2000.0,
+        "Credit": NaN,
+        "Balance": 96515.58
+    },
+    {
+        "Date": "10-Jun",
+        "Value Date": "10Jun26",
+        "Description": "EVEREST COLOUR LIMITED-ASBA CH 1301080001248131 0000",
+        "Debit": 5.0,
+        "Credit": NaN,
+        "Balance": 96510.58
+    },
+    {
+        "Date": "10-Jun",
+        "Value Date": "10Jun26",
+        "Description": "simalthali agro pvt.ltd/EBL CIPS/665650969 0010",
+        "Debit": 49500.0,
+        "Credit": NaN,
+        "Balance": 146010.58
+    },
+    {
+        "Date": "11-Jun",
+        "Value Date": "11Jun26",
+        "Description": "LG0N REV PAYMENT/EBLNQR@999 GA1.1 HETAUDA UP.MA.NA.PA. A A 462322447544 0420",
+        "Debit": 1402.0,
+        "Credit": NaN,
+        "Balance": 144608.58
+    },
+    {
+        "Date": "15-Jun",
+        "Value Date": "15Jun26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M104576132 985507 1250 M104576132 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 144108.58
+    },
+    {
+        "Date": "15-Jun",
+        "Value Date": "15Jun26",
+        "Description": "ARUNA SUBEDI BAKHRA BECHEKO PROFIT 0420",
+        "Debit": 51000.0,
+        "Credit": NaN,
+        "Balance": 195108.58
+    },
+    {
+        "Date": "18-Jun",
+        "Value Date": "18Jun26",
+        "Description": "TARA NATH POKHAREL/NABIL Cip s-(1001/04200501202549/Hou C IPS/669185794 0010",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 240108.58
+    },
+    {
+        "Date": "22-Jun",
+        "Value Date": "22Jun26",
+        "Description": "WD:1782091094567:EVBLNPKA ES EWA TXN 0000",
+        "Debit": 20000.0,
+        "Credit": NaN,
+        "Balance": 260108.58
+    },
+    {
+        "Date": "22-Jun",
+        "Value Date": "22Jun26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,ghar k TO 001 00501227190 M105522231 0420",
+        "Debit": 1000.0,
+        "Credit": NaN,
+        "Balance": 259108.58
+    },
+    {
+        "Date": "24-Jun",
+        "Value Date": "24Jun26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,kista/ETT SGBBNPKA;0110 1900527552000001 M105747840 0420",
+        "Debit": 7010.0,
+        "Credit": NaN,
+        "Balance": 252098.58
+    },
+    {
+        "Date": "25-Jun",
+        "Value Date": "25Jun26",
+        "Description": "FPY:IBFT:1640667621:5605:EVB LNPKA:NEBLNPKA:MAKUND 269010 07465813000001 NEBLNPKA-7126 5662 0000",
+        "Debit": 100000.0,
+        "Credit": NaN,
+        "Balance": 352098.58
+    },
+    {
+        "Date": "25-Jun",
+        "Value Date": "25Jun26",
+        "Description": "FPY:IBFT:1640670387:5605:EVB LNPKA:NEBLNPKA:MAKUND 269010 07465813000001 NEBLNPKA-7126 5793 0000",
+        "Debit": 50000.0,
+        "Credit": NaN,
+        "Balance": 402098.58
+    },
+    {
+        "Date": "25-Jun",
+        "Value Date": "25Jun26",
+        "Description": "9855071250/QR Pay,SHREE SHIR ISTHAN HOTEL & LODGE/ 174028 05opUK M105932474 0420",
+        "Debit": 100000.0,
+        "Credit": NaN,
+        "Balance": 302098.58
+    },
+    {
+        "Date": "25-Jun",
+        "Value Date": "25Jun26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,tilak pathapathi SNMANP KA;030011060001677 M10597345 0 0420",
+        "Debit": 75010.0,
+        "Credit": NaN,
+        "Balance": 227088.58
+    },
+    {
+        "Date": "26-Jun",
+        "Value Date": "26Jun26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,vetenari satifek MBLNNP KA;0320037828700011 M1060369 04 0420",
+        "Debit": 5010.0,
+        "Credit": NaN,
+        "Balance": 222078.58
+    },
+    {
+        "Date": "28-Jun",
+        "Value Date": "28Jun26",
+        "Description": "9855071250/,M19827109/ETT 04 20440052424,RenewMBanking M1 9827109 0420",
+        "Debit": 300.0,
+        "Credit": NaN,
+        "Balance": 221778.58
+    },
+    {
+        "Date": "28-Jun",
+        "Value Date": "28Jun26",
+        "Description": "WD:1782608933019:EVBLNPKA ES EWA TXN 0000",
+        "Debit": 12000.0,
+        "Credit": NaN,
+        "Balance": 233778.58
+    },
+    {
+        "Date": "28-Jun",
+        "Value Date": "28Jun26",
+        "Description": "9855071250/NT Postpaid Topup ,bankXPMob,M106262446 985507 1250 M106262446 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 233278.58
+    },
+    {
+        "Date": "28-Jun",
+        "Value Date": "28Jun26",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M106262538/ 984121 0496 M106262538 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 233178.58
+    },
+    {
+        "Date": "28-Jun",
+        "Value Date": "28Jun26",
+        "Description": "9855071250/GOBINDA PRASAD SU BEDI,masu kharid/ETT NSBINPK A;20015243401241 M106339803 0420",
+        "Debit": 760.0,
+        "Credit": NaN,
+        "Balance": 232418.58
+    },
+    {
+        "Date": "28-Jun",
+        "Value Date": "28Jun26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 042 00501210576 M106374293 0420",
+        "Debit": 5000.0,
+        "Credit": NaN,
+        "Balance": 227418.58
+    },
+    {
+        "Date": "28-Jun",
+        "Value Date": "28Jun26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 001 00501227190 M106374488 0420",
+        "Debit": 2000.0,
+        "Credit": NaN,
+        "Balance": 225418.58
+    },
+    {
+        "Date": "28-Jun",
+        "Value Date": "28Jun26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kharch TO 042 00501205275 M106374605 0420",
+        "Debit": 2000.0,
+        "Credit": NaN,
+        "Balance": 223418.58
+    },
+    {
+        "Date": "29-Jun",
+        "Value Date": "29Jun26",
+        "Description": "SHIKHAR INSURANCE COMPANY/EB LNQR@999 IDT NCHL QR ACQUIRN G STLMNT N EBL_NQR-2260630,i ns 0420",
+        "Debit": 75822.0,
+        "Credit": NaN,
+        "Balance": 147596.58
+    },
+    {
+        "Date": "30-Jun",
+        "Value Date": "30Jun26",
+        "Description": "WD:1782782548647:EVBLNPKA ES EWA TXN 0000",
+        "Debit": 12000.0,
+        "Credit": NaN,
+        "Balance": 159596.58
+    },
+    {
+        "Date": "30-Jun",
+        "Value Date": "30Jun26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,kakej TO 0420 0501205275 M106555613 0420",
+        "Debit": 2000.0,
+        "Credit": NaN,
+        "Balance": 157596.58
+    },
+    {
+        "Date": "30-Jun",
+        "Value Date": "30Jun26",
+        "Description": "9855071250/NT Prepaid Topup, bankXPMob,M106601028/ 976425 3630 M106601028 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 157496.58
+    },
+    {
+        "Date": "02-Jul",
+        "Value Date": "02Jul26",
+        "Description": "9855071250/QR Pay,BIRENDRA T HAKUR/ETT 177133881s6g M1068 62726 0420",
+        "Debit": 350.0,
+        "Credit": NaN,
+        "Balance": 157146.58
+    },
+    {
+        "Date": "02-Jul",
+        "Value Date": "02Jul26",
+        "Description": "9855071250/QR Pay,BINIT SUPP LIERS/ETT 17713847fECC M1068 63812 0420",
+        "Debit": 100.0,
+        "Credit": NaN,
+        "Balance": 157046.58
+    },
+    {
+        "Date": "04-Jul",
+        "Value Date": "04Jul26",
+        "Description": "WD:1783130446409:EVBLNPKA ES EWA TXN 0000",
+        "Debit": 24000.0,
+        "Credit": NaN,
+        "Balance": 181046.58
+    },
+    {
+        "Date": "05-Jul",
+        "Value Date": "05Jul26",
+        "Description": "9855071250/bankXPMob,GOBINDA PRASAD SUBEDI,calleg TO 042 00501210576 M107124071 0420",
+        "Debit": 100000.0,
+        "Credit": NaN,
+        "Balance": 81046.58
+    },
+    {
+        "Date": "07-Jul",
+        "Value Date": "07Jul26",
+        "Description": "FPY:IBFT:1672498705:5641:EVB LNPKA:NEBLNPKA:MAKUND 269010 07465813000001 NEBLNPKA-7272 3970 0000",
+        "Debit": 30000.0,
+        "Credit": NaN,
+        "Balance": 111046.58
+    },
+    {
+        "Date": "09-Jul",
+        "Value Date": "09Jul26",
+        "Description": "FPY:IBFT:1677630965:5647:EVB LNPKA:NARBNPKA:TARA N 011001 7501308 NARBNPKA-282384173 0 000",
+        "Debit": 45000.0,
+        "Credit": NaN,
+        "Balance": 156046.58
+    },
+    {
+        "Date": "09-Jul",
+        "Value Date": "09Jul26",
+        "Description": "9855071250/Ncell Topup,bankX PMob,M107693154/ETT 98132856 56 M107693154 0420",
+        "Debit": 500.0,
+        "Credit": NaN,
+        "Balance": 155546.58
+    },
+    {
+        "Date": "09-Jul",
+        "Value Date": "09Jul26",
+        "Description": "WD:1783609403053:EVBLNPKA ES EWA TXN 0000 C/F This is computer generated statement and signature is not required",
+        "Debit": NaN,
+        "Credit": NaN,
+        "Balance": 167546.58
+    }
+]
